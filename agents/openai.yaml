@@ -1,0 +1,4 @@
+interface:
+  display_name: "中文科研答辩演示稿"
+  short_description: "按中文论文答辩或科研项目申请风格编排章节、证据页和评审表格"
+  default_prompt: "用 $academic-defense-slides 将我的材料制作成中文科研答辩 PPT。"
